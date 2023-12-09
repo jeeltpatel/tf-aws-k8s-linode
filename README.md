@@ -18,7 +18,8 @@ terraform apply
 terraform destroy
 ```
 # show resources and components from current state
+```
 terraform state list
-
+```
 
 
